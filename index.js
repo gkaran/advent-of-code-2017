@@ -1,0 +1,1 @@
+require('./day-1');

@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2017",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gkaran/advent-of-code-2017.git",
+  "author": "George Karanikas <george.karanikas@foodtecsolutions.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
